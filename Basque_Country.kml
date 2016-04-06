@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+
+  <Document>
+	  <Style id="GeoToursKMLStyle">
+		<IconStyle>
+		  <Icon>
+		    <href>http://www.geovative.com/GeoTours/images/kmlIcon.png</href>
+		  </Icon>
+		</IconStyle>
+	  </Style>
+
+<Placemark>
+<name>
+	<![CDATA[
+Perpignan
+	]]>
+</name>  
+<styleUrl>#GeoToursKMLStyle</styleUrl>   
+<description>
+<![CDATA[
+<table>
+<tr>
+<td align="left" valign="top">
+</td>
+<td valign="top" align="left">
+</td>
+</tr>
+</table>
+<br><b>View the full tour <a target=_blank href="http://www.geovative.com/view?t=HHME">here</a>.</b><br><br>
+]]>
+</description>
+<Point>
+<coordinates>2.878418,42.698586,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>
+	<![CDATA[
+Andorra
+	]]>
+</name>  
+<styleUrl>#GeoToursKMLStyle</styleUrl>   
+<description>
+<![CDATA[
+<table>
+<tr>
+<td align="left" valign="top">
+</td>
+<td valign="top" align="left">
+</td>
+</tr>
+</table>
+<br><b>View the full tour <a target=_blank href="http://www.geovative.com/view?t=HHME">here</a>.</b><br><br>
+]]>
+</description>
+<Point>
+<coordinates>1.516113,42.504503,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>
+	<![CDATA[
+Lourdes
+	]]>
+</name>  
+<styleUrl>#GeoToursKMLStyle</styleUrl>   
+<description>
+<![CDATA[
+<table>
+<tr>
+<td align="left" valign="top">
+</td>
+<td valign="top" align="left">
+</td>
+</tr>
+</table>
+<br><b>View the full tour <a target=_blank href="http://www.geovative.com/view?t=HHME">here</a>.</b><br><br>
+]]>
+</description>
+<Point>
+<coordinates>-0.065918,43.100983,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>
+	<![CDATA[
+Bayonne
+	]]>
+</name>  
+<styleUrl>#GeoToursKMLStyle</styleUrl>   
+<description>
+<![CDATA[
+<table>
+<tr>
+<td align="left" valign="top">
+</td>
+<td valign="top" align="left">
+</td>
+</tr>
+</table>
+<br><b>View the full tour <a target=_blank href="http://www.geovative.com/view?t=HHME">here</a>.</b><br><br>
+]]>
+</description>
+<Point>
+<coordinates>-1.483154,43.484812,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>
+	<![CDATA[
+Biarritz
+	]]>
+</name>  
+<styleUrl>#GeoToursKMLStyle</styleUrl>   
+<description>
+<![CDATA[
+<table>
+<tr>
+<td align="left" valign="top">
+</td>
+<td valign="top" align="left">
+</td>
+</tr>
+</table>
+<br><b>View the full tour <a target=_blank href="http://www.geovative.com/view?t=HHME">here</a>.</b><br><br>
+]]>
+</description>
+<Point>
+<coordinates>-1.548386,43.480826,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>
+	<![CDATA[
+San Sebastian
+	]]>
+</name>  
+<styleUrl>#GeoToursKMLStyle</styleUrl>   
+<description>
+<![CDATA[
+<table>
+<tr>
+<td align="left" valign="top">
+</td>
+<td valign="top" align="left">
+</td>
+</tr>
+</table>
+<br><b>View the full tour <a target=_blank href="http://www.geovative.com/view?t=HHME">here</a>.</b><br><br>
+]]>
+</description>
+<Point>
+<coordinates>-2.010498,43.309191,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>
+	<![CDATA[
+Bilbao
+	]]>
+</name>  
+<styleUrl>#GeoToursKMLStyle</styleUrl>   
+<description>
+<![CDATA[
+<table>
+<tr>
+<td align="left" valign="top">
+</td>
+<td valign="top" align="left">
+</td>
+</tr>
+</table>
+<br><b>View the full tour <a target=_blank href="http://www.geovative.com/view?t=HHME">here</a>.</b><br><br>
+]]>
+</description>
+<Point>
+<coordinates>-2.93335,43.253205,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>
+	<![CDATA[
+Vitoria
+	]]>
+</name>  
+<styleUrl>#GeoToursKMLStyle</styleUrl>   
+<description>
+<![CDATA[
+<table>
+<tr>
+<td align="left" valign="top">
+</td>
+<td valign="top" align="left">
+</td>
+</tr>
+</table>
+<br><b>View the full tour <a target=_blank href="http://www.geovative.com/view?t=HHME">here</a>.</b><br><br>
+]]>
+</description>
+<Point>
+<coordinates>-2.702637,42.827639,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>
+	<![CDATA[
+Pamplona
+	]]>
+</name>  
+<styleUrl>#GeoToursKMLStyle</styleUrl>   
+<description>
+<![CDATA[
+<table>
+<tr>
+<td align="left" valign="top">
+</td>
+<td valign="top" align="left">
+</td>
+</tr>
+</table>
+<br><b>View the full tour <a target=_blank href="http://www.geovative.com/view?t=HHME">here</a>.</b><br><br>
+]]>
+</description>
+<Point>
+<coordinates>-1.691895,42.795401,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>
+	<![CDATA[
+Perpignan
+	]]>
+</name>  
+<styleUrl>#GeoToursKMLStyle</styleUrl>   
+<description>
+<![CDATA[
+<table>
+<tr>
+<td align="left" valign="top">
+</td>
+<td valign="top" align="left">
+</td>
+</tr>
+</table>
+<br><b>View the full tour <a target=_blank href="http://www.geovative.com/view?t=HHME">here</a>.</b><br><br>
+]]>
+</description>
+<Point>
+<coordinates>2.900391,42.682435,0</coordinates>
+</Point>
+</Placemark>
+ </Document>
+</kml>
